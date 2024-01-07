@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JHB990
-- 👀 I’m interested in HTML, CSS, JS, C#, Python.
-- 🌱 I’m currently learning JS, Python, and C#
+- 👀 I’m interested in HTML, CSS, JS, C#, Java and Python.
+- 🌱 I’m currently learning JS, Python, C# and Java
 - 💞️ I’m looking to collaborate on Videogames, and Front and Back End
 
 <!---
